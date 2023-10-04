@@ -8,7 +8,7 @@ I appreciate if you can acknowledge me for the use of this template.
 - [figures](figures)  : Put figures under this directory.
 - [tables](tables)    : Put tables under this directory.
 - [bst](bst)          : Put your bib file under this directory. This directory also includes bst files.
-- [misc](misc)        : This figure includes miscerous files, e.g. logo of your institute.
+- [misc](misc)        : This directory includes miscellaneous files, e.g. logo of your institute.
 - [sty](sty)          : This directory includes some style files. 
 
 ## Files you need to modify
