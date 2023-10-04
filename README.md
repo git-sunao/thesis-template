@@ -1,3 +1,8 @@
+# Thesis template
+This is a thesis template for the Department of Physics, Faculty of Science & Graduate School of Science, The University of Tokyo.
+This template is written by [Sunao Sugiyama](https://git-sunao.github.io/). 
+I appreciate if you can acknowledge me for the use of this template.
+
 ## Structure
 - [contents](contents): This directory is for thesis contents (tex file).
 - [figures](figures)  : Put figures under this directory.
